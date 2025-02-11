@@ -1,0 +1,1 @@
+console.log("Goo.ne 擴充已啟動！");
